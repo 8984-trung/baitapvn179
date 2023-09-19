@@ -1,0 +1,7 @@
+C:\Users\84359\source\repos\btvn179\btvn179\bin\Debug\btvn179.exe.config
+C:\Users\84359\source\repos\btvn179\btvn179\bin\Debug\btvn179.exe
+C:\Users\84359\source\repos\btvn179\btvn179\bin\Debug\btvn179.pdb
+C:\Users\84359\source\repos\btvn179\btvn179\obj\Debug\btvn179.csproj.AssemblyReference.cache
+C:\Users\84359\source\repos\btvn179\btvn179\obj\Debug\btvn179.csproj.CoreCompileInputs.cache
+C:\Users\84359\source\repos\btvn179\btvn179\obj\Debug\btvn179.exe
+C:\Users\84359\source\repos\btvn179\btvn179\obj\Debug\btvn179.pdb
